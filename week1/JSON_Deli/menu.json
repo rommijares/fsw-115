@@ -1,0 +1,74 @@
+{
+    "menu": [
+        {
+            "appetizers": [
+                {
+                    "name": "nachos",
+                    "ingredients": ["nacho chips", "cheese","guacamole","steak"],
+                    "description": "warm nacho chips smothered with chese, guacamole and chopped steak on top"
+                },
+                {
+                    "name": "deep fried mushrooms",
+                    "ingredients": ["mushrooms", "flour","salt","pepper","eggs"],
+                    "description": "buttom mushrooms covered with our signature batter and fried until golden brown"
+                }
+            ]
+        },
+        {
+            "cold sandwiches": [
+                {
+                    "name": "BLT sandwich",
+                    "ingredients": ["rye bread", "bacon","lettuce","tomato"],
+                    "description": "fresh lettuce and tomato with crispy bacon on rye bread"
+                },
+                {
+                    "name": "turkey and ham sandwich",
+                    "ingredients": ["white bread", "turkey","ham","cheese","lettuce","tomato"],
+                    "description": "deli sliced turkey and ham with lettuce, cheese and tomato on white bread"
+                }
+            ]
+        },
+        {
+            "hot sandwiches": [
+                {
+                    "name": "philly cheese steak",
+                    "ingredients": ["cheese", "steak","onions","sweet peppers","hoagie roll"],
+                    "description": "cooked thinly sliced steak with cheese, caramelized onions, sauteed sweet peppers in a hoagie roll"
+                },
+                {
+                    "name": "meatball sandwich",
+                    "ingredients": ["meatballs", "marinara sauce","cheese","hoagie roll"],
+                    "description": "homemade meatballs with marinara sauce, topped with cheese on a hoagie roll"
+                }
+            ]
+        },
+        {
+            "desserts": [
+                {
+                    "name": "cheesecake bites",
+                    "ingredients": ["sour cream", "sugar","butter","graham crackers","eggs","vanilla extract"],
+                    "description": "delicious bite-sized cheesecake topped with your choice of strawberry, chocolate, or blueberry drizzle"
+                },
+                {
+                    "name": "chocolate chip cookies",
+                    "ingredients": ["chocolate chip", "flour","butter","brown sugar","eggs","white sugar","baking soda"],
+                    "description": "warm, freshly baked chocolate chip cookies"
+                }
+            ]
+        },
+        {
+            "drinks": [
+                {
+                    "name": "soda",
+                    "ingredients": ["coca-cola", "sprite","fanta","Barq's rootbeer","powerade"],
+                    "description": "your choice of soda in 12oz bottles"
+                },
+                {
+                    "name": "thai tea",
+                    "ingredients": ["loose leaf black tea", "sugar","evaporated milk","condensed milk","cardamom","star anise"],
+                    "description": "iced cold, sweet thai tea"
+                }
+            ]
+        }    
+    ]
+}
